@@ -1,4 +1,4 @@
 3DRendering
 ===========
 
-this is a USC CSCI580 hw repo
+This is a USC CSCI580 HW Repo
