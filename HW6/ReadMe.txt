@@ -1,5 +1,4 @@
 Name: Hui Li
-ID: 3194819503
 Email Address: hli997@usc.edu
 VS Version: Microsoft Visual Studio 2010 Professional Version 10.0.40219.1 SP1Rel
 
